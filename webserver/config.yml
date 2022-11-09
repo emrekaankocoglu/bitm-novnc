@@ -1,0 +1,8 @@
+workers:
+  hosts:
+    - host:
+        ip: 
+        port: 
+    - host:
+        ip: 
+        port: 
